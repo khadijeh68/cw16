@@ -1,0 +1,10 @@
+li, button {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    border-radius: 5px;
+    text-align: center;
+}
+button{
+    margin-left: 60px;
+}
